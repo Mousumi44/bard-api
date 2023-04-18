@@ -1,7 +1,7 @@
 
 ## Installation
 ```
-git clone https://github.com/Mousumi44/bard-api
+git clone git@github.com:Mousumi44/bard-api.git
 cd bard-api
 pip install -r requirements.txt
 ```
